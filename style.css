@@ -26,9 +26,8 @@ body {
 }
 
 .text {
-    color: rgb(176, 221, 109);
-    line-height: 1.5rem;
-    
+    color: #b0dd6d;
+    line-height: 1.5rem; 
 }
 
 .feature {
